@@ -1,0 +1,8 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+B0:48:7A:D2:DD:74, 2024-05-17 09:32:14, 2024-05-17 09:34:19,  6,  54, WEP, WEP, SKA, -51,      353,    11215,   0.  0.  0.  0,   3, WEP, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+64:66:B3:1E:61:B2, 2024-05-17 09:32:51, 2024-05-17 09:34:11, -57,      110, B0:48:7A:D2:DD:74,
+10:27:F5:51:8E:C3, 2024-05-17 09:32:14, 2024-05-17 09:34:19, -49,    38748, B0:48:7A:D2:DD:74,WEP
+

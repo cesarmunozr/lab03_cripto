@@ -1,0 +1,3 @@
+[submodule "PyCrack"]
+	path = PyCrack
+	url = https://github.com/nogilnick/PyCrack
